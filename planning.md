@@ -10,6 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+Unofficial Guide to UCSC Computer Science Courses and Professors: This system helps UCSC CS students answer questions about which CSE classes/professors are difficult, helpful, project-heavy, exam-heavy, or good for specific goals like interviews, research, or electives.
 
 ---
 
@@ -18,18 +19,18 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source             | Description                | URL or location |
+|---|--------------------|----------------------------|-----------------|
+| 1 | Official UCSC Page | UCSC CS Major Introduction | https://catalog.ucsc.edu/en/current/general-catalog/academic-units/baskin-engineering/computer-science-and-engineering/computer-science-bs
+| 2 | Official UCSC Page | UCSC CSE Course Catalogue  | https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering 
+| 3 | Reddit             | Important CS Classes       | https://www.reddit.com/r/UCSC/comments/13imo75/what_are_the_most_important_cs_classes_yall_took/
+| 4 | Github             | UCSC CS Student Guide      | https://github.com/williamsantosa/ucsc-cs#professors
+| 5 | Reddit             | UCSC CS Major FAQ          | https://www.reddit.com/r/UCSC/comments/1j3k9qx/questions_about_computer_science_ucsc/
+| 6 | Reddit             | How is UCSC CS Program     | https://www.reddit.com/r/UCSC/comments/120x5m1/cs_major_how_is_ucsc_program/
+| 7 | Reddit             | Example CS Path            | https://www.reddit.com/r/UCSC/comments/ui7qpy/the_classes_i_took_for_my_computer_science_bs/
+| 8 | PDF                | CS Degree Curriculum Chart | sources/CS_BS_24-25.pdf
+| 9 | Reddit             | "Best" Professors          |  https://www.reddit.com/r/UCSC/comments/1271hpo/who_are_the_best_teachers_for_cs_at_ucsc/
+| 10 | Official UCSC Page| Official UCSC CS Faculty   | https://engineering.ucsc.edu/departments/computer-science-and-engineering/people/
 
 ---
 
