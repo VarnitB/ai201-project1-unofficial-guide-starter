@@ -1,0 +1,6 @@
+Source: Reddit
+Description: UCSC CS Major FAQ
+URL: https://www.reddit.com/r/UCSC/comments/1j3k9qx/questions_about_computer_science_ucsc/
+
+MANUAL COPY NEEDED: scraping failed or returned too little text.
+Reason: returned too little text (37 characters)

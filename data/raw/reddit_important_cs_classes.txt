@@ -1,0 +1,23 @@
+Source: Reddit
+Description: Important CS Classes
+URL: https://www.reddit.com/r/UCSC/comments/13imo75/what_are_the_most_important_cs_classes_yall_took/
+
+Post:
+What are the most important CS classes y'all took here? I'm curious so I can carefully choose my CS electives for next year.
+
+Comments:
+- Sdrater3: 130 with Harrison for systems stuff. 113 with Sorensen for multithreaded stuff. Full stack web development with Harrison was important because of his emphasis on unit tests and coverage. 138 with Kuper helped with microservices and REST APIs. I use knowledge from these classes almost daily in my job. I would prioritize 138 and full stack web development because they apply to a broader set of jobs.
+
+- throwawayowaowa: Anything with Professor Harrison. CSE 186/187, CSE 118, and CSE 111 are all great classes. CSE 138 is also very good. Other classes depend on interest: 150/156 for networking, 140/144 for AI/ML, 160/164/168 for graphics or computer vision, 104/105 for math, and 180/181 for databases.
+
+- Burrito150: CSE 130 and CSE 115. CSE 130 is brutal but you learn C programming. I have only taken 115A, but it has been more useful than half of my classes here.
+
+- Swayre: 186 and 187.
+
+- rde2001: CSE 186 and CSE 187 are excellent classes taught by Professor Harrison. Both are full-stack web development classes. CSE 186 involves a series of web development projects that culminate in a full-stack final project. CSE 187 involves working with a team on a project for the whole quarter. Great classes, highly recommended.
+
+- Bangaladore: 120, 121, 123B, 125, 130, 132. Anything with Harrison.
+
+- UCSC-CSMajor: For getting a job, 186/187 are probably the most beneficial because they involve a big project, front-end and back-end development, database design and deployment, JavaScript/TypeScript, API development, and DevOps. 180 is crucial for databases because many tech jobs ask about database knowledge. For specializations: 144/142 for machine learning and AI, 121 for embedded, and 183 for mobile apps. The 115 series can be beneficial if taken seriously and used to build a project that helps with jobs.
+
+- UCSC-CSMajor: Data engineering and embedded are good for entry-level jobs. For senior positions, back-end development, especially with Azure and .NET, DevOps, and project management are useful.

@@ -1,0 +1,6 @@
+Source: Reddit
+Description: How is UCSC CS Program
+URL: https://www.reddit.com/r/UCSC/comments/120x5m1/cs_major_how_is_ucsc_program/
+
+MANUAL COPY NEEDED: scraping failed or returned too little text.
+Reason: returned too little text (37 characters)

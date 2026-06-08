@@ -1,0 +1,6 @@
+Source: Reddit
+Description: "Best" Professors
+URL: https://www.reddit.com/r/UCSC/comments/1271hpo/who_are_the_best_teachers_for_cs_at_ucsc/
+
+MANUAL COPY NEEDED: scraping failed or returned too little text.
+Reason: returned too little text (37 characters)

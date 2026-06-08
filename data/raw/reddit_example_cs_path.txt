@@ -1,0 +1,6 @@
+Source: Reddit
+Description: Example CS Path
+URL: https://www.reddit.com/r/UCSC/comments/ui7qpy/the_classes_i_took_for_my_computer_science_bs/
+
+MANUAL COPY NEEDED: scraping failed or returned too little text.
+Reason: returned too little text (37 characters)
