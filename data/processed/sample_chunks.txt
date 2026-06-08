@@ -1,0 +1,113 @@
+### Sample Chunk 1
+
+**Source:** `pdf_cs_degree_curriculum_chart.txt`  
+**Chunk ID:** `pdf_cs_degree_curriculum_chart_0001`
+
+```text
+Document:
+Computer Science B.S. Degree 2024-2025 Curriculum Chart
+UCSC Baskin Engineering
+http://undergrad.engineering.ucsc.edu
+bsoeadvising@ucsc.edu
+Updated: 08/20/2024
+Lower-Division Programming Courses:
+- CSE 20: Beginning Programming Python
+- CSE 30: Programming Abstractions: Python
+- CSE 12: Computer Systems and Assembly Language
+- CSE 13S: Computer Systems and C Programming
+- CSE 40: Machine Learning Basics
+Math Courses:
+- MATH 19A or MATH 20A: Calculus I
+- MATH 19B or MATH 20B: Calculus II
+- CSE 16: Applied Discrete Mathematics
+- MATH 21: Linear Algebra
+- AM 10: Engineering Math Methods I
+- MATH 23A: Vector Calculus
+- AM 30: Multivariate Calculus for Engineers
+- ECE 30: Engineering Principles of Electronics
+- CSE 107: Probability and Statistics
+- STAT 131: Intro to Probability Theory
+Core Upper-Division Computer Science Courses:
+- CSE 101: Introduction to Data Structures and Algorithms
+- CSE 101M: Mathematical Thinking for Computer Science
+- CSE 102: Analysis of Algorithms
+```
+
+### Sample Chunk 2
+
+**Source:** `reddit_important_cs_classes.txt`  
+**Chunk ID:** `reddit_important_cs_classes_0001`
+
+```text
+Post:
+What are the most important CS classes y'all took here? I'm curious so I can carefully choose my CS electives for next year.
+Comments:
+- Sdrater3: 130 with Harrison for systems stuff. 113 with Sorensen for multithreaded stuff. Full stack web development with Harrison was important because of his emphasis on unit tests and coverage. 138 with Kuper helped with microservices and REST APIs. I use knowledge from these classes almost daily in my job. I would prioritize 138 and full stack web development because they apply to a broader set of jobs.
+- throwawayowaowa: Anything with Professor Harrison. CSE 186/187, CSE 118, and CSE 111 are all great classes. CSE 138 is also very good. Other classes depend on interest: 150/156 for networking, 140/144 for AI/ML, 160/164/168 for graphics or computer vision, 104/105 for math, and 180/181 for databases.
+```
+
+### Sample Chunk 3
+
+**Source:** `reddit_how_is_ucsc_cs_program.txt`  
+**Chunk ID:** `reddit_how_is_ucsc_cs_program_0001`
+
+```text
+Post:
+CS major: How is UCSC program?
+I was accepted into pre-CS major. How is the program? Difficult to get classes? How's campus life and housing? Pros/cons?
+Comments:
+- ClassroomUnit003:
+Everyone enters in proposed status. This just means there are a handful of classes you need to complete to declare. I have really enjoyed CS. CS major status at UCSC gives you really high priority for classes. I never had issues getting into any of the classes I needed. On top of that, UCSC prioritizes having the necessary CS classes you need to graduate every quarter. Some majors only offer a class once a quarter, but most CS classes are offered every quarter.
+```
+
+### Sample Chunk 4
+
+**Source:** `reddit_example_cs_path.txt`  
+**Chunk ID:** `reddit_example_cs_path_0001`
+
+```text
+Post:
+The classes I took for my Computer Science B.S. degree at UC Santa Cruz
+I transferred to UCSC in Fall 2020 from a community college, so I'll only be giving my experience with the CSE upper-division courses I took each quarter. Every class I took was remote, but I think some people might find this useful.
+I want to post this for people who want to see what CSE upper-division courses you would take as a Computer Science student and hopefully answer some questions about the Computer Science degree at UCSC.
+This is my review about each class and professor. If you disagree with what I said, please be respectful.
+Fall 2020:
+CSE 101: Data Structures and Algorithms
+Professor: Patrick Tantalo
+Rating: 10/10
+Required course
+```
+
+### Sample Chunk 5
+
+**Source:** `github_ucsc_cs_student_guide.txt`  
+**Chunk ID:** `github_ucsc_cs_student_guide_0001`
+
+```text
+GitHub - williamsantosa/ucsc-cs: Guide to UCSC's Computer Science Majors 🖥⌨ · GitHub
+williamsantosa
+/
+ucsc-cs
+Public
+You must be signed in to change notification settings
+3
+28
+Name
+Name
+Latest commit
+History
+89 Commits
+89 Commits
+Classes
+Classes
+Media
+Media
+Professors
+Professors
+LICENSE
+LICENSE
+README.md
+README.md
+A Guide to the University of California, Santa Cruz's Computer Science Majors
+The University of California, Santa Cruz's campus
+```
