@@ -1,0 +1,36 @@
+Milestone 4 Retrieval Notes
+
+Embedding model:
+sentence-transformers/all-MiniLM-L6-v2
+
+Vector store:
+ChromaDB persistent database stored in data/chroma_db/
+
+Top-k:
+5
+
+Retrieval test summary:
+I tested retrieval on all 5 evaluation questions from planning.md. The retrieval system successfully returned chunks with source filenames, chunk IDs, and distance scores.
+
+Question 1: Which UCSC CSE classes do students mention as especially important for CS majors?
+Judgment: Mostly relevant.
+The top results include reddit_example_cs_path.txt, reddit_how_is_ucsc_cs_program.txt, and github_ucsc_cs_student_guide.txt. These sources discuss UCSC CS classes, CSE upper-division courses, and specific courses like CSE 101 and CSE 130. The exact reddit_important_cs_classes.txt chunk was not in the top 5 for this wording, but a more direct query about jobs/classes did retrieve it as Rank 1.
+
+Question 2: What are common pros and cons students mention about UCSC CS?
+Judgment: Mostly relevant.
+The top result comes from reddit_how_is_ucsc_cs_program.txt and directly discusses proposed status, class priority, course availability, and student experience in the major. Another result discusses rigor, prerequisites, and professor quality. Some lower-ranked GitHub chunks are less useful and mostly contain references or boilerplate, so this query is not perfect.
+
+Question 3: Which professors or teachers are recommended by students in the collected sources?
+Judgment: Partially relevant.
+The best relevant chunk, reddit_best_professors_0001, appears at Rank 2 and includes direct recommendations for Sesh, Fremont, Harrison, Sorensen, Kuper, and Tantalo. However, Rank 1 is a weaker GitHub chunk about tutoring and RateMyProfessor rather than direct professor recommendations. This is a retrieval weakness to revisit later if needed.
+
+Question 4: What official requirements or course categories are listed for the UCSC CS B.S.?
+Judgment: Partially relevant.
+The retrieval returns class-list and requirement-related chunks, including the PDF curriculum chart at Rank 3. However, the best official curriculum source is not Rank 1. This suggests that official requirement questions may need better source filtering or cleaner official-document chunks in a production system.
+
+Question 5: Does the system have enough information to compare UCSC CS to UC Davis CS?
+Judgment: Useful out-of-scope test.
+The retrieved chunks are about UCSC CS and do not provide a real comparison to UC Davis CS. Distances are also weaker than the more answerable questions. In Milestone 5, the generation step should use this retrieval result to say that the documents do not contain enough information for a grounded comparison.
+
+Overall:
+Retrieval is good enough to move to Milestone 5 because the top chunks are visibly related for the main in-domain questions, and the weaknesses are understandable. The main limitations are that some GitHub overview/reference chunks appear when more specific Reddit or official PDF chunks would be better, and some distance scores are higher than the ideal target. These limitations can be documented in the README as retrieval failure/partial-failure cases.
