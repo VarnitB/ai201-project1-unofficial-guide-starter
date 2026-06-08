@@ -28,7 +28,7 @@ Unofficial Guide to UCSC Computer Science Courses and Professors: This system he
 | 5 | Reddit             | UCSC CS Major FAQ          | https://www.reddit.com/r/UCSC/comments/1j3k9qx/questions_about_computer_science_ucsc/ |
 | 6 | Reddit             | How is UCSC CS Program     | https://www.reddit.com/r/UCSC/comments/120x5m1/cs_major_how_is_ucsc_program/ |
 | 7 | Reddit             | Example CS Path            | https://www.reddit.com/r/UCSC/comments/ui7qpy/the_classes_i_took_for_my_computer_science_bs/ |
-| 8 | PDF                | CS Degree Curriculum Chart | sources/CS_BS_24-25.pdf |
+| 8 | PDF                | CS Degree Curriculum Chart | data/raw/CS_BS_24-25.pdf |
 | 9 | Reddit             | "Best" Professors          |  https://www.reddit.com/r/UCSC/comments/1271hpo/who_are_the_best_teachers_for_cs_at_ucsc/ |
 | 10 | Official UCSC Page| Official UCSC CS Faculty   | https://engineering.ucsc.edu/departments/computer-science-and-engineering/people/ |
 
