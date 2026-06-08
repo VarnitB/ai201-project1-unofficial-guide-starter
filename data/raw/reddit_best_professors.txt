@@ -2,5 +2,64 @@ Source: Reddit
 Description: "Best" Professors
 URL: https://www.reddit.com/r/UCSC/comments/1271hpo/who_are_the_best_teachers_for_cs_at_ucsc/
 
-MANUAL COPY NEEDED: scraping failed or returned too little text.
-Reason: returned too little text (37 characters)
+Post:
+Who are the best teachers for CS at UCSC? I am aware that “best” teacher is subjective for everyone, especially since in the CS department, the harder classes make you better, while other students prefer easy classes, but I still want to know which teachers to take.
+
+Comments:
+- Sdrater3: Sesh, Fremont, and Harrison are good for the mandatory upper-division classes. Sorensen and Kuper both taught really interesting upper-division electives. If I had to pick one, Harrison. You level up as a software engineer each time you survive a Harrison class.
+
+- Opposite-Kale1224: Tyler Sorensen, hands down.
+
+- tony_resta: I can back this.
+
+- ACatNamedFreddie: Tantalo was my favorite. He also gives extensions.
+
+- domgada: Tantalo is a good time. I feel like his teaching is pretty mid, but the dude is a vibe.
+
+- AmbientEngineer: I took Harrison for CSE 111 and CSE 130 and was not a fan. I could see his full-stack course being good, which is why I assume he gets so much love. He was paranoid about cheating, demanded a lot for 5 units, and had a grading policy with a wide margin for pass/fail.
+
+- Sdrater3: It is pretty much near impossible to fail a Harrison class. You need something like a 40 or 50 percent in all sections to pass with a C, if I remember correctly.
+
+- AmbientEngineer: If I remember correctly, Harrison had three sections to calculate your overall grade. If any section itself was below a percentage, it was an automatic F. I also remember sweating through the final, which averaged below 60. If I had gotten a few points less, my B would have been an F after putting a lot of time into his 8 assignments. I know a few people who failed due to this.
+
+- Deleted commenter: I graded Harrison's finals and there were maybe two students who failed due to failing the final exam, and they were already going to fail the class anyway.
+
+- AmbientEngineer: This was during remote operation and the final was over Canvas. A few people in the Discord mentioned they failed because of the test aspect.
+
+- Deleted commenter: When remote for CSE 183, Harrison allowed notes on the final exam. I made a Google document with his lectures outlined and used Ctrl+F during the final.
+
+- ClassroomUnit003: I really enjoyed Peter Alvaro in CSE 130 and CSE 186 with David Harrison. I am excited to take CSE 118 with David Harrison next quarter.
+
+- imperialsheriff: I heard Alvaro is teaching CSE 13S. Would you say it is worth taking him?
+
+- ClassroomUnit003: I am not sure the last time Alvaro taught CSE 13. I am not sure if he will use a similar curriculum to other professors who have taught CSE 13. CSE 13 is going to be hard no matter who you take it with. The best parts of Alvaro are his lectures and his communication on Discord. He is always available to answer questions.
+
+- External_Wolf3937: Alvaro is coming in to clean up CSE 13S, so it will be a different CSE 13S. In my opinion, anything is better than what it was.
+
+- PeterDemachkie: I thought Tantalo was a good professor. I also liked De Alfaro. Similar to what another person said, apparently you level up if you survive a class with Long.
+
+- No-Commercial-5993: Unfortunately, Long is no longer teaching.
+
+- Carbinkisgod: I heard they are lowering the difficulty of CSE 13S. It is interesting because it means more competition for upper-division courses.
+
+- imperialsheriff: I have been hearing stories of a lot of courses being made easier.
+
+- icecreamninjaz: CSE 130, CSE 13, and CSE 121 all got somewhat easier.
+
+- throwawayowaowa: Harrison and Long for sure. I have never felt such a big level up after taking their classes, but do not expect to pass with a high grade because they are known to be hard. Professor Long retired, but you can look to take CSE 13S with Professor Miller. He is just as great. Professor Qian is pretty great too. He gives clear lectures and I had a lot of fun in his class. Professor Alvaro is pretty good too from what I heard, especially in his specialty class CSE 138.
+
+- Carbinkisgod: Professor Miller also retired.
+
+- throwawayowaowa: I thought I saw Miller's name on next year's schedule. It is sad to lose two tenured professors in one go.
+
+- Carbinkisgod: I believe Fall CSE 13S two quarters ago was Miller's last class.
+
+- UCSC_CE_prof_M: CSE 13S in Fall 2022 was my last undergraduate class before retirement. I am teaching a graduate seminar on archival storage systems in Spring 2023. The department can ask emeritus faculty to teach classes through recall, but the department has to ask and the faculty member has to agree. I am very unlikely to teach CSE 13S again unless it is an honors section.
+
+- Deleted commenter: Professor Miller, can you give more insight into what is happening at the university? Some students feel Professor Long and faculty from your research group were holding up department standards, and that it is not a coincidence that many of you are leaving at the same time.
+
+- UCSC_CE_prof_M: I am retiring because I can afford to and for other reasons. You should ask Professor Long about his reasons. I intend to continue doing research and working with graduate students as an emeritus professor, and would consider teaching an undergraduate class on recall. However, it would have to be under about 50 students who actually want to take the class to learn, not just to get a grade. CSE 134 in Spring 2021 was like that, as was the pilot offering of what is now CSE 130. Required classes of 120 or more students are not as appealing. The department and BSOE knew faculty were retiring as of last fall, so changes after that point were made with the knowledge that Professor Long and I could do little to oppose them.
+
+- gasstation-no-pumps: The CSE 2023 course schedule does not list Miller on any courses, though it is possible he could be recalled from retirement to teach one.
+
+- Deleted commenter: Harrison, Fremont, Litz, and Tantalo are good for anything math-heavy.

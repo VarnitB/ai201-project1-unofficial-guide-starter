@@ -1,0 +1,135 @@
+Source: PDF
+Description: CS Degree Curriculum Chart
+Path: data/raw/CS_BS_24-25.pdf
+
+Document:
+Computer Science B.S. Degree 2024-2025 Curriculum Chart
+UCSC Baskin Engineering
+http://undergrad.engineering.ucsc.edu
+bsoeadvising@ucsc.edu
+Updated: 08/20/2024
+
+Lower-Division Programming Courses:
+- CSE 20: Beginning Programming Python
+- CSE 30: Programming Abstractions: Python
+- CSE 12: Computer Systems and Assembly Language
+- CSE 13S: Computer Systems and C Programming
+- CSE 40: Machine Learning Basics
+
+Math Courses:
+- MATH 19A or MATH 20A: Calculus I
+- MATH 19B or MATH 20B: Calculus II
+- CSE 16: Applied Discrete Mathematics
+- MATH 21: Linear Algebra
+- AM 10: Engineering Math Methods I
+- MATH 23A: Vector Calculus
+- AM 30: Multivariate Calculus for Engineers
+- ECE 30: Engineering Principles of Electronics
+- CSE 107: Probability and Statistics
+- STAT 131: Intro to Probability Theory
+
+Core Upper-Division Computer Science Courses:
+- CSE 101: Introduction to Data Structures and Algorithms
+- CSE 101M: Mathematical Thinking for Computer Science
+- CSE 102: Analysis of Algorithms
+- CSE 103: Computational Models
+- CSE 114A: Foundations of Programming Languages
+- CSE 120: Computer Architecture
+- CSE 130: Principles of Computer Systems Design
+
+CSE 101 Prerequisites:
+CSE 101 requires CSE 12, CSE 16, CSE 13S, CSE 30, and MATH 19B or MATH 20B.
+
+Upper-Division Electives:
+Students must complete four upper-division electives. These are 5-credit or more-than-5-credit upper-division CSE or CE courses numbered 100-189, CSE 195, or approved courses from the Computational Media electives list. Up to two electives may be replaced by approved upper-division mathematics electives.
+
+Restrictions:
+- CSE 115A, CSE 185S, and CSE 185E cannot be used to satisfy one of the four upper-division elective requirements.
+- CSE 195 can satisfy the Disciplinary Communication requirement or an upper-division elective, but not both.
+- Many upper-division Computer Science courses are restricted to declared Computer Science majors during first-pass or priority enrollment.
+
+Capstone / Comprehensive Requirement:
+Students must fulfill the Computer Science exit requirement by either:
+1. Passing one of the capstone courses, or
+2. Successfully completing a senior thesis.
+
+The capstone course can count toward one of the four required upper-division electives. Many capstone options require additional prerequisites, so advance planning is important.
+
+Disciplinary Communication Requirement:
+Students must satisfy the upper-division Disciplinary Communication requirement by either:
+1. Passing one of the Disciplinary Communication courses, or
+2. Successfully completing a senior thesis.
+
+The DC requirement for the Computer Science B.S. can be satisfied by:
+- CSE 115A: Introduction to Software Engineering
+- CSE 185E or CSE 185S: Technical Writing for Computer Science and Engineering
+- CSE 195: Senior Thesis
+
+DC courses cannot be used to satisfy any of the four upper-division electives, except for CSE 195.
+
+Capstone Course Options / Upper-Division CSE Courses:
+- CSE 110B: Fundamentals of Compiler Design II
+- CSE 115C: Software Design Project II
+- CSE 115D: Software Design Project - Accelerated
+- CSE 121: Embedded System Design
+- CSE 134: Embedded Operating Systems
+- CSE 138: Distributed Systems
+- CSE 140: Artificial Intelligence
+- CSE 143: Introduction to Natural Language Processing
+- CSE 144: Applied Machine Learning
+- CSE 145: Introduction to Data Mining
+- CSE 156/L: Network Programming / Lab
+- CSE 157: Internet of Things
+- CSE 160: Introduction to Computer Graphics / Lab
+- CSE 161/L: Introduction to Data Visualization / Lab
+- CSE 162/L: Advanced Computer Graphics and Animation / Lab
+- CSE 163: Data Programming for Visualization
+- CSE 168: Introduction to Augmented Reality and Virtual Reality
+- CSE 181: Database Systems II
+- CSE 183: Web Applications
+- CSE 184: Data Wrangling and Web Scraping
+- CSE 187: Full Stack Web Development II
+- CMPM 172: Game Production Studio
+
+Mathematics Electives List:
+- AM 114: Introduction to Dynamical Systems
+- AM 147: Computational Methods and Applications
+- MATH 110: Introduction to Number Theory
+- MATH 115: Graph Theory
+- MATH 116: Combinatorics
+- MATH 117: Advanced Linear Algebra
+- MATH 118: Advanced Number Theory
+- MATH 134: Cryptography
+- MATH 145/L: Introductory Chaos Theory / Lab
+- MATH 148: Numerical Analysis
+- MATH 160: Mathematical Logic I
+- MATH 161: Mathematical Logic II
+- STAT 132: Classical and Bayesian Inference
+
+Computational Media Electives List:
+- CMPM 120: Game Development Experience
+- CMPM 131: User Experience for Interactive Media
+- CMPM 146: Game AI
+- CMPM 163: Game Graphics and Real Time Rendering
+- CMPM 164/L: Game Engines / Lab
+- CMPM 171: Game Design Studio
+- CMPM 172: Game Production Studio
+
+Physics Requirement:
+Students must complete one of the following combinations:
+- PHYS 5A and PHYS 5B
+- PHYS 5A and PHYS 5C
+- PHYS 6A and PHYS 6B
+- PHYS 6A and PHYS 6C
+
+Note: Physics courses have co-requisite labs required for enrollment. These labs are not part of the Computer Science B.S. major requirements.
+
+Grade Rules:
+All courses being applied to Computer Science major requirements must be taken for a letter grade. Grades of P do not count toward major requirements.
+
+Courses with grades of C-, D+, D, or D- earn credit toward graduation, but cannot be used to satisfy a major requirement, a general education requirement, or a prerequisite for another course.
+
+Other Notes:
+- Shaded boxes on the chart represent major qualification courses.
+- Many graduate courses can also be used to satisfy electives, but students need instructor and department approval.
+- The Baskin Engineering major declaration process requires an earlier start than the UCSC Academic/Administrative calendar deadline.

@@ -2,5 +2,119 @@ Source: Reddit
 Description: UCSC CS Major FAQ
 URL: https://www.reddit.com/r/UCSC/comments/1j3k9qx/questions_about_computer_science_ucsc/
 
-MANUAL COPY NEEDED: scraping failed or returned too little text.
-Reason: returned too little text (37 characters)
+Post:
+Questions about Computer Science @ UCSC
+
+I'd like to ask members of this subreddit about their experiences with Computer Science at UC Santa Cruz. Specifically, I'm curious to know:
+
+1. What is your overall opinion of your education overall?
+
+2. How challenging is it to get into the Computer Science program as a community college transfer?
+
+3. Was the program more focused on theory or hands-on application, i.e., did you spend more time coding and creating programs, or learning theoretical concepts?
+
+4. How rigorous and challenging was the course load? Was it relatively easy to manage?
+
+5. What are you currently doing now, and did your major help you secure that position?
+
+6. Would you recommend the program to others?
+
+7. What unique job and internship opportunities did you find through your school, if any?
+
+8. How was your experience with computer science electives on campus?
+
+9. Are there any tech/computer science related clubs/extracurricular activities on campus?
+
+10. Did you make any projects in your classes and if so what type of projects did you make?
+
+11. What were your fellow computer science majors like on campus? What was the general culture in those environments? Were people competitive or helpful/supportive of each other?
+
+12. Were the class sizes generally small or large?
+
+13. How affordable was your education? How much did you pay out of pocket, and how much was covered? Did you have to take out any loans?
+
+14. How good would you say this program is for someone who is interested in web development?
+
+15. Do you know if there are art/graphic design minors on campus?
+
+Feel free to answer just one or two of these questions if that’s easier for you. I would greatly appreciate it if you could at least try to answer the question about where you currently are in relation to your career, but it's not required. I'm looking to learn more about different programs as I make my decision on which school to attend. Thank you!
+
+Comments:
+- Substantial-Fold-617:
+1. I am satisfied. It is definitely what you make of it. Are you going to take the hard classes where you will learn useful things, or will you pick the easiest classes because you just need to graduate and can't risk losing any more GPA?
+
+3. I would say that most of the classes are theoretical, meaning just not coding.
+
+Low-division coding: CSE 20, CSE 30, CSE 40, CSE 13S.
+
+Upper-division coding: CSE 101, CSE 130, CSE 114A, CSE 115A.
+
+These are just the major required classes.
+
+Catalog: https://catalog.ucsc.edu/en/current/general-catalog/academic-units/baskin-engineering/computer-science-and-engineering/computer-science-bs/
+
+4. It depends on the class. There are easy quarters and there are quarters where you won't have much time. On average, it is doable. Having a part-time job with some of these classes would be pretty brutal.
+
+6. I mean yes, but computer science is not as guaranteed as it was in the past. As a transfer, I think you will love the campus and some classes are cloned from Davis, San Diego, or other UCs. I think it is a solid program overall, but for me I really like low-level stuff like programming in C.
+
+7. This summer I am doing an internship abroad in Japan through UC Davis. It is unpaid though, and they make you pay for housing and program fees. I was also able to be a tutor for CS classes during some quarters here.
+
+10. CSE 111: you make an emulator with C++.
+
+CSE 130: you make a multithreaded HTTP server in C that can handle GET and PUT requests for text files.
+
+CSE 114A: you make a nano interpreter in Haskell, a functional programming language. It is a basic calculator, but it also saves states and can recurse, which is pretty cool.
+
+CSE 186: at the end of it you make a Slack clone, basically Discord without voice channels.
+
+These are just the classes that I have taken so far.
+
+11. 20 percent of majors at UCSC are computer science. Chances are, you will find a group of friends taking the same classes as you.
+
+12. For the major required classes, typically 100-200 people. Some upper-division electives are pretty small. Right now I am about to take embedded operating systems with 50 people in it.
+
+14. They have a web development series that a lot of people love, CSE 186 and CSE 187. Tough assignments that teach you a lot. I am taking 186 right now and the last project is to create a Slack clone in 2 weeks. This school is not the most friendly to web development in the sense that you will not touch much of it until your high-division electives. Until then you will mostly be coding in C or Python if AI. They also have CSE 115A, which puts people into 4-5 person groups. You use Scrum practices and create an app over 10 weeks, although they only teach the Scrum practices in class. Everything programming-wise in that class is self-study. If you have any web development knowledge, you can definitely show it off in that class and create an impressive project for the resume.
+
+- Specialist-Ebb-8595:
+Thank you so much for all your responses!
+
+- AmbientEngineer:
+3. Good curriculums have a strong emphasis on theory that generalizes to an arbitrary tool or application. I think this university did a decent job fostering that concept.
+
+4. Certain courses are harder than others. Instructors play a role in contributing to the difficulty level. There are a few required courses that are intensive and should not be taken together.
+
+5. I work in San Francisco doing backend microservices related to an enterprise application. The major gave me the knowledge, but in reality, only helped 25 percent in securing the role. It was necessary and cannot be skipped, but there is so much more you need to do to transition into the job market successfully.
+
+7. I worked with Keysight, which was a corporate sponsor in San Jose.
+
+12. Large. Availability is an issue here.
+
+13. The DoD paid everything for me. I honestly don't know how people do it otherwise. Tuition was like 20k per year and cost of living was like 2k per month.
+
+- Specialist-Ebb-8595:
+Thank you so much!
+
+- DonutBeStupid:
+1. The computer science classes here are overall pretty good, with lots of good options.
+
+2. I transferred from a community college to UCSC and it wasn't too challenging compared to the other UCs. UCSC did not require as many classes as the other UCs did at the time when I was transferring, but I am not sure about now.
+
+3. There are a lot of classes that do some coding and some theoretical stuff. When you get to your 3rd and 4th year, you will be able to choose your own CS elective courses, so it is ultimately up to you what you would rather do.
+
+4. Most of the courses were pretty easy to manage, although there are a few that are quite tough.
+
+5. I am currently a frontend engineer for more than 3 years now, and being a computer science major 200 percent helped me get this position. I took the full-stack web application course that taught me the skills to land the frontend role.
+
+6. Yes, I would recommend the program.
+
+7. They have career fairs for internship opportunities. They also have the CSE 115A/B/C series where you can work on a project with a company, similar to an internship.
+
+8. Solid choices for electives, and every year they seem to add more.
+
+10. I made a few full-stack web application projects in my classes. They looked good on my resume.
+
+13. I think the education was semi-affordable, especially since I only paid for 2 years at UCSC.
+
+14. If you want to do web development, you should definitely come here. That full-stack course really helped me land a good web dev job.
+
+I also made a post about my experience here as a computer science major if you want more detail on my experience here at UCSC: https://www.reddit.com/r/UCSC/comments/ui7qpy/the_classes_i_took_for_my_computer_science_bs/

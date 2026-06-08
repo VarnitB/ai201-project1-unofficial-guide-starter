@@ -2,5 +2,173 @@ Source: Reddit
 Description: Example CS Path
 URL: https://www.reddit.com/r/UCSC/comments/ui7qpy/the_classes_i_took_for_my_computer_science_bs/
 
-MANUAL COPY NEEDED: scraping failed or returned too little text.
-Reason: returned too little text (37 characters)
+Post:
+The classes I took for my Computer Science B.S. degree at UC Santa Cruz
+
+I transferred to UCSC in Fall 2020 from a community college, so I'll only be giving my experience with the CSE upper-division courses I took each quarter. Every class I took was remote, but I think some people might find this useful.
+
+I want to post this for people who want to see what CSE upper-division courses you would take as a Computer Science student and hopefully answer some questions about the Computer Science degree at UCSC.
+
+This is my review about each class and professor. If you disagree with what I said, please be respectful.
+
+Fall 2020:
+CSE 101: Data Structures and Algorithms
+Professor: Patrick Tantalo
+Rating: 10/10
+Required course
+
+Patrick Tantalo was a really good professor. He explained all the material well, and his assignments and quizzes were not difficult at all. Workload was very manageable, and I learned a lot from this class. The assignments are in C/C++. It is very important that you pick a good professor for CSE 101 because this is where you learn data structures and algorithms, which come up a lot during interviews. I highly recommend Tantalo.
+
+CSE 120: Computer Architecture
+Professor: Sagnik Nath
+Rating: 5/10
+Required course
+
+This was Nath's first time teaching as a professor. He is a nice guy, but I found his lectures hard to understand and follow. His homework and exams were pretty hard at times. Overall, it was not a fun learning experience, and I felt this class was not too useful for me. Try to avoid him, but if you have to take him for CSE 120, make sure you pay attention during lectures and attend TA office hours.
+
+Winter 2021:
+CSE 102: Intro to Analysis of Algorithms
+Professor: David Martin
+Rating: 7/10
+Required course
+
+Martin was often unprepared for lectures, and the grading of assignments and exams was pretty harsh. I do not recommend taking him as a professor. The reason I rate this class high is because of how useful it was. I learned a lot of new topics that would come up during interviews.
+
+CSE 112: Comparative Programming Languages
+Professor: Wesley Mackey
+Rating: 3/10
+Required course
+
+CSE 112 with Mackey was boring and useless to me. You learn 4-5 new programming languages that you may never use again. His lectures were boring, and the assignments were pretty tough. Exams were pretty easy remotely, but I think if I took it in person, it would be a much harder course. I do not recommend taking classes with Mackey in general.
+
+Spring 2021:
+CSE 144: Applied Machine Learning
+Professor: CiHang Xie
+Rating: 4/10
+Elective
+
+Xie's lectures and assignments were hard to understand. Lectures were all over the place, and the assignments were confusing. The quizzes were not as bad if you looked at the lecture slides. You do learn some machine learning topics and code in Python. I am not very interested in machine learning, so I felt this class was not useful for me, but if you are interested in machine learning, take CSE 144 with another professor.
+
+CSE 111: Advanced Programming
+Professor: Wesley Mackey
+Rating: 4/10
+Elective
+
+Mackey's CSE 111 is similar to his CSE 112 course, except the assignments are in C++. I only took it because there were not any other classes open. I do not recommend taking it unless you know nothing about C++ and badly want to learn it.
+
+STAT 131: Intro to Probability Theory
+Professor: David Draper
+Rating: 7/10
+Required course
+
+Draper is an easy A. He gives out the answers to assignments and quizzes in office hours, so make sure to attend those. I felt the information I learned in this course was not useful for me because I do not want to do anything related to statistics. It might be useful if you plan to go into AI/ML.
+
+Summer 2021:
+CSE 183: Web Applications, later changed to CSE 186: Full Stack Web Development I
+Professor: David Harrison
+Rating: 10/10
+Elective
+
+This was the best and most useful course I took at UCSC. Harrison is a really good professor, and his lectures and assignments are very clear. His exams are not too bad as long as you pay attention during lectures and read his slides to study. I learned many modern technologies, including HTML/CSS, JavaScript, React, Node.js, Express.js, and PostgreSQL, that many companies use. I became a much better programmer by the end of this course. This class introduces you to web development. If you are interested in web development, take this class with Harrison. The class was difficult and time-consuming, but it was worth it. This course helped me land a job. I highly recommend taking this course with David Harrison.
+
+Fall 2021:
+CSE 130: Principles of Computer Systems Design
+Professor: Peter Alvaro
+Rating: 5/10
+Required course
+
+Alvaro's CSE 130 course was disorganized and difficult. Lectures were hard to follow at times. His exams were graded harshly. The programming assignments were difficult and confusing. Every programming assignment was in C. The information I learned in this class was useful at least. I do not recommend Alvaro for this class; take CSE 130 with someone else. CSE 130 is considered the hardest CSE upper-division course, so it is important to take it with a good professor.
+
+CSE 103: Computational Models
+Professor: Delbert Bailey
+Rating: 4/10
+Required course
+
+Bailey's CSE 103 lectures were boring, and his homework assignments were not too hard. The exams make up most of the grade: 10 percent homework and 90 percent from three exams. You might have to take it with Bailey because there are not many other professors teaching CSE 103, so I recommend attending office hours and paying attention during lectures. If you can, try to take it with a different professor.
+
+CSE 115A: Intro to Software Engineering
+Professor: Richard Jullig
+Rating: 9/10
+Required course
+
+I highly recommend taking CSE 115A. You learn about Scrum and Agile methodologies, which many software engineers use in industry. You also work on a project in a team throughout the whole quarter, which you can put on your resume. The projects can be almost anything you want. The class itself was very chill. The reading assignments and quizzes were easy. I highly recommend taking this class, especially in the Fall quarter.
+
+Winter 2022:
+CSE 115B: Software Design Project
+Professor: Richard Jullig
+Rating: 10/10
+Elective
+
+CSE 115B is the continuation after CSE 115A. You can only take CSE 115B in the winter quarter and must complete CSE 115A before taking it. In this class, you work on a project sponsored by an outside company. That year, companies like Databricks, Dell, and Keysight sponsored projects for students. It is a fun and useful class. There are no lectures or exams, just project work. It is also good to put on your resume. I highly recommend taking this course.
+
+CSE 160: Intro to Computer Graphics
+Professor: James Davis
+Rating: 9/10
+Elective
+
+CSE 160 with Davis was chill and fun. The exams were not too difficult as long as you attended lectures. The assignments were fun. I learned a lot about computer graphics. Overall, it was a good class where you learn and are not too stressed. I recommend taking it as a fun course.
+
+Spring 2022:
+CSE 115C: Software Design Project II
+Professor: Richard Jullig
+Rating: 10/10
+Elective
+
+CSE 115C is the continuation of CSE 115B. CSE 115C is only offered in the Spring quarter, and you must have taken CSE 115B in the previous Winter quarter. You continue working on the company-sponsored project you picked in CSE 115B. CSE 115B/C is similar to an internship because you work on a project with a company, and they help you when needed. I strongly recommend taking the whole CSE 115A/B/C series so you can put the projects on your resume and learn many new technologies. The whole CSE 115A/B/C series is chill and fun.
+
+Final Thoughts:
+Overall, I felt most of these classes prepared me well for industry. UCSC has many electives to choose from. There are classes covering AI/ML, computer graphics, distributed systems, computer networks, databases, and full-stack development.
+
+Do not take my experiences and thoughts as facts. This is only my opinion. In the end, your college education is what you make of it. This degree was tough, so make sure you study hard and grind. I am open to answering questions.
+
+Comments:
+- SlightlySalty6:
+Thank you so much, this is super helpful.
+
+- dood1337:
+I would not dismiss Mackey's classes so quickly. A lot of the knowledge is esoteric, but I came away with useful skills. Even if pure functional programming is still niche, functional programming concepts are becoming common. Java has lambdas, streams, map, and passing functions as arguments. Scala is partly functional and used in Spark. Regex is very useful. Most of all, you learn to read code, which is more important than knowing how to write code.
+
+- DonutBeStupid:
+I understand what you are saying, and the concepts you learn in CSE 111 and CSE 112 are useful, but Mackey's teaching methods and style are not my style. I find his lectures boring and hard to engage with. CSE 114A is doing a better job at teaching some of these same concepts while being engaging.
+
+- slimfaydey:
+From an outsider's perspective, Mackey seems like a very polarizing professor. Students who get it, get it and regard him well. Students who just want to get out regard him as an obstacle. That is often the case for professors who do their job properly.
+
+- XolotiCat:
+I love Mackey. He is a legend.
+
+- Scottstimo:
+The CSE 115 series is good.
+
+- Rexigon:
+My experience in CSE 144 is the same with Professor Yuyin Zhou. I am currently enrolled in CSE 186 for the summer, so I am glad to hear that class is as good as it sounds. I am a lot more interested in taking the CSE 115 series now.
+
+- Beginning-Dog8611:
+Do you think UCSC provides internship opportunities? Is it easy to find one if you put in the work?
+
+- DonutBeStupid:
+It is up to you to put in the time and effort to get an internship. UCSC has career fairs every quarter, so you will have many opportunities to interview with companies. A good number of companies show up to the career fairs. Finding an internship is not easy, so I recommend trying early and practicing LeetCode. I also recommend printing out your resume to hand out.
+
+- Bangaladore:
+It is worth noting that an individual's ranking is highly subjective. For example, I was in Fall 2021 CSE 130 with this student and feel the exact opposite. Without a doubt, that was the best class I have ever taken here, and Alvaro is the best professor I have had. Harrison probably comes in a close second. That class was also probably the most difficult class I have taken, so it makes you wonder if harder classes are ranked lower for that reason.
+
+- Deleted commenter:
+It is hard for me to agree that Peter Alvaro's CSE 130 in Fall 2021 was amazing. I had many of the same concerns about the class as the original poster, but I respect your opinion. Peter is definitely brilliant, and I enjoyed his CSE 30 course when I was in lower division. These discussions prove that this is all very subjective.
+
+- DonutBeStupid:
+I did take CSE 183, now CSE 186, with Harrison, and that class was difficult too. The main difference I felt between Harrison and Alvaro is that Harrison was organized and clear about everything. Harrison's lecture slides reflect exactly what he says out loud, so you can follow along better and take notes. His programming assignments were more readable and understandable. Whoever is reading this should take Harrison and Alvaro and come to their own conclusion.
+
+- Agreeable_Midnight49:
+As a community college transfer, did you have to take a chemistry or physics sequence before or after transfer? I am looking on ASSIST and do not see any science courses required, which worries me. I do not want to take them after transfer because it would mean another year.
+
+- PaelebthrAwesom:
+What kind of projects did you do, or did other people do, during the CSE 115 series? I am considering taking it, but I am not very interested in web development. Are there teams or projects that are not based on web development?
+
+- DonutBeStupid:
+There are many different projects, and not all of them are web applications. Some were mobile apps or machine learning projects. For my CSE 115A project, I did a web app, and for my CSE 115B/C project, I did a mobile app. The beauty of the CSE 115 series is that you can choose what you want to do. I highly recommend taking it.
+
+- PresentRecording9294:
+I am planning to take CSE 186 with Professor Harrison this coming summer, and I would like to start self-teaching the material. However, I have very little experience and am not sure where I should begin. Do you have any recommendations?
+
+- arb_boi:
+I took CSE 130 with Alvaro in Spring 2020 remotely because of COVID. The lectures were not the easiest for me to understand and were not completely related to the coursework or test, but speaking as an ex-FAANG engineer, his course was more valuable than all other CS courses I took combined. The lecture concepts he covered are topics that come up when working with large-scale systems in industry.

@@ -2,5 +2,141 @@ Source: Reddit
 Description: How is UCSC CS Program
 URL: https://www.reddit.com/r/UCSC/comments/120x5m1/cs_major_how_is_ucsc_program/
 
-MANUAL COPY NEEDED: scraping failed or returned too little text.
-Reason: returned too little text (37 characters)
+Post:
+CS major: How is UCSC program?
+
+I was accepted into pre-CS major. How is the program? Difficult to get classes? How's campus life and housing? Pros/cons?
+
+Comments:
+- ClassroomUnit003:
+Everyone enters in proposed status. This just means there are a handful of classes you need to complete to declare. I have really enjoyed CS. CS major status at UCSC gives you really high priority for classes. I never had issues getting into any of the classes I needed. On top of that, UCSC prioritizes having the necessary CS classes you need to graduate every quarter. Some majors only offer a class once a quarter, but most CS classes are offered every quarter.
+
+I would say the only con of the major at UCSC is that you really don’t get the chance to concentrate in a subject until way later. The core CS classes don’t really help you decide what you want to do with your CS degree. Some of my favorite CS classes have been CSE 130, CSE 186, and CSE 115A, and I took all of those in the past year. I would definitely research CS topics and work on mini side projects in your spare time to enrich your experience.
+
+I wish I got to spend my sophomore and junior year on campus because I have really felt part of the CS community more this year post-COVID. I really like it.
+
+My best advice for housing is to start early. You should first try to get a lease passed onto you, second start attending open houses in the springtime. If you have to sign a lease in July, you can easily find summer subletters if necessary. Third, find a room in a house on Facebook. Congratulations on your acceptance.
+
+- Sdrater3:
+Banger program, good younger professors, and interesting classes are available if you choose to take them.
+
+Do not be one of the people who just takes the easiest classes and professors available. You will end up with zero skills.
+
+- Rexigon:
+The CS program is really excellent. There are many very knowledgeable professors as long as you choose wisely. It is not difficult to get into classes as long as you plan things out appropriately.
+
+The campus is very beautiful. It is not much of a party school, but there are events if you look for them.
+
+Housing sucks in Santa Cruz. You can rely on the dorms for the first and maybe second year, but after that you will need to find somewhere off campus, which is limited and expensive. Still, it is possible to find a decent place if you search early.
+
+- JabootieeIsGroovy:
+Come to UCSC for computer science. It is only going to get better and better, and it is already pretty good because of some quality professors.
+
+- gprcamp:
+This is all based on my opinion, which has been shaped by my time here at UCSC, my friends that have taken classes here, relationships with the teachers, and my experience. Take what resonates with you and leave the rest.
+
+If you can, plan to take CSE 101 with Sesh. He is an amazing human and one of the best CS teachers UC has to offer. He only teaches CSE 101 one quarter per year, and it is his only undergraduate class. He teaches the class in C++, so make sure your C++ is solid when you get there. You will have to do this on your own unless you are a transfer student. If you cannot take Sesh, then Tantalo is a good second choice, but he only teaches about half the assignments in C++, and you really want to get as much C++ as you can.
+
+Harrison is one of the best teachers in the program. It does not matter what class you take with him, you will learn a lot. Take at least one class with him, but expect it to be difficult unless you are well prepared ahead of time by doing your own external study. Sometimes he teaches CSE 111, advanced programming. When he teaches it, the class is in C++, and the curriculum is one of the best classes at UCSC.
+
+When you take STAT 131, try to get it with Draper. If you do well in the class, you can take his graduate class STAT 206. You might have to fight the CSE department to get credit for it, but it is worth the effort. Draper is one of UC's stars, and learning Bayesian methods could change your life.
+
+Do as much external study as you can. This is vital to develop enough skill. One good starting place is MIT's online Missing Semester. This will bring you up to speed with the terminal and other skills that will make your coding life better.
+
+If you do not already have a Mac, consider getting one or installing Linux on your non-Mac machine. Most of the work you will be doing will require the terminal. You will mostly be working in a Unix/Linux world, and interfacing with this world is much easier with a Mac. Get at least 16 GB of RAM and 512 GB of storage, more if you can afford it.
+
+Learn how to use an IDE. Once you have your basic skills together from the Missing Semester, get up to speed with an IDE. There are a number of them out there, and they are sometimes not the most straightforward tools. As a UC student, you can use JetBrains tools for free. Most people use VS Code. You can also use VSCodium, which is an open-source version.
+
+For better or worse, UCSC is currently very Python-oriented. It would serve you well to have some basic Python skills. One of the very best departments at UCSC is BME. They have world-class teachers, which presents an opportunity for programming students, mostly taught in Python. BME 160 is an introductory class with many prerequisites, but you can speak with the professor to get in as a programming student. You can learn powerful Python techniques not taught in CSE classes. If you do well, you could attempt to get into BME 205 and BME 203A.
+
+In the lower-division classes, you will have to learn RISC-V. They specifically chose this language because there is very little support for it on the internet. They used to teach MIPS, which was great, and if they needed to change it they should have gone to ARM since many people have an ARM processor in their pocket. But their motivations were misguided, and now students must suffer.
+
+CMPM 123 is a new C++ class that gives you an opportunity to gain more C++ experience. This class is in the CMPM department, but the teacher is excellent and the material is fantastic. It was developed as an offshoot of CSE 111, but aimed more at game design. Because it is outside CSE, you might have to ask to get into the class, but it is worth the effort because C++ is a vital skill and there are few opportunities to study it at UCSC.
+
+Great classes to take because of the teachers include CSE 140, usually taught by Gilpin or Raz. Both are amazing for different reasons and will help you become a better programmer. CSE 142 with Raz is also recommended. CSE 163 may be taught by Sesh.
+
+The CSE 110 series on compiler design will greatly influence your understanding of what is going on under the hood. When you know how the compiler treats your code, you can write better code. This class is vital to your CS education.
+
+The CSE 115 series can get you into a job, and for that reason it is important to become friends with the teachers. They get to choose who has an opportunity to intern, and if you do well at the internship, it can turn into a job. If you go through this process, you will not have nearly the same stress searching for a position after school.
+
+- tehkooltchr:
+I graduated in 2019. The classes are not too difficult until you reach upper-division classes, CMPS 101 or later. Another tip: always go for Professor Tantalo. He is the best and will teach you everything. CMPS 102 is the most difficult class you will ever take.
+
+- Sdrater3:
+Why are you trying to doom this person? I do not know a single person who took Tantalo's class and came out thinking they really learned a lot. He extends every deadline, and the pseudocode for all the homeworks in CSE 101 is in the textbook.
+
+- tehkooltchr:
+Hey, I did learn a lot from Tantalo. The extensions though, you are right.
+
+- Sdrater3:
+It takes a lot of self-control and effort to learn in his classes, in my opinion, because of how easy he makes it to cheat yourself out of having to learn.
+
+- Zambini:
+I had Tantalo for CS 10, and he was pretty great. I learned how to program from his class, and I got As in both 12B and 109 with Mackey, so he must have been doing something right.
+
+- thedarkknight160:
+They are making the program easier. Interpret that however you want.
+
+- exyphrius:
+Alum here. Overall, I thought it was too easy.
+
+I came in with some programming knowledge already from experimenting as a teenager. A couple classes were very transformational in my understanding of the material, but overall I always felt like most classes were on the easy side and did not challenge or push students enough. Professors constantly gave in to student complaints about pushing tests and deadlines out, and homeworks and projects were kept very easy. Grades were incredibly lenient.
+
+Most other students seemed disinterested in going above and beyond, and seemed okay with coasting by with a B or C. I personally thrive best when I am with other students who are deeply engaged with the material, and I found it hard to be around disengaged students.
+
+Occasionally a professor will expect something more, but students will not be prepared for the class due to prior lack of rigor. If you are a self-starter or autodidact, you will have lots of time to learn on your own, but not a lot of guidance or community to help.
+
+That being said, if you are looking for a program that is more laid back but still good quality, it is not too bad. Even though it was easy-ish, it was enjoyable.
+
+The campus is the most beautiful place I have ever lived.
+
+- advaith1:
+I am a freshman, but so far this has not been my experience, at least with my friends.
+
+- gwendlynn123:
+Do the professors weed out a lot of the students in the first-year core classes?
+
+- Sdrater3:
+The comment about professors giving in to student complaints, pushing tests and deadlines out, and making homework and projects easy sounds like Tantalo. He is a really great human being, but gives students far too much rope to hang themselves with, to the detriment of the learning outcomes.
+
+- Swayre:
+Tantalo's deadlines are all smoke and mirrors. He basically told our CSE 102 class that the extension date is always his planned due date. It still does not change the fact that his classes are very easy, since he puts things on exams straight from the review sheet with nothing changed.
+
+- exyphrius:
+You know it.
+
+- pieguy744:
+The issue of some professors expecting more while students are not prepared due to prior lack of rigor is constantly being worked on by adding new CS prerequisites and teachers like Long retiring, so the CS department is trying to help alleviate that.
+
+Not to say that lack of rigor is a bad thing, because some topics are just tough. But as someone who started as a freshman here, I can say there were classes where things were assumed that I knew, like makefiles in CSE 13S, that just did not get taught to us, so it was a struggle. Eventually they fixed that in later versions of the course, but it is still a work in progress.
+
+I have very few bad things to say about the UCSC CSE program, as it has mostly fantastic professors who are really into the material they teach. There is a reason more than half of them have a 4 or higher on Rate My Professor.
+
+- gwendlynn123:
+Thanks for all the feedback. This is very helpful. I will be at admit day and am looking forward to learning more about the program and seeing the campus. CS students should be able to get their classes and graduate in 4 years? How can I find out who the knowledgeable professors are? What is the best dorm to be in? Do most students go home on the weekends?
+
+- Carbinkisgod:
+Best dorm? Honestly, it does not matter because you will move out in 1 or 2 years anyway.
+
+My personal recommendations are Cowell and Stevenson because they are closest to the gym and soccer field, and they also have a beautiful view of the ocean.
+
+College 9/10 is also good because they have the newest dorms and are close to a good hiking trail. I personally lived there and did not have issues.
+
+Porter is good if you like to party.
+
+Oakes is good if you like being secluded.
+
+Rachel Carson is good if you dislike the forest part of UCSC and want to live in a suburb.
+
+Crown and Merrill are also secluded because they are on a hill, though you will have to climb that hill every time you go home.
+
+Another difference between the colleges is the writing programs. Some colleges have core writing courses that are 2 quarters instead of 1, which can be a pain if you do not like writing. They also have different topics, but you should not base your college pick on the core writing class. Just hope you get an easy teacher.
+
+- gasstation-no-pumps:
+Only Stevenson has a two-quarter core, and the core classes are no longer writing classes except perhaps the second quarter of Stevenson's core.
+
+- gwendlynn123:
+Thanks for the insights.
+
+- LionSinCurran:
+Hard and rewarding.
