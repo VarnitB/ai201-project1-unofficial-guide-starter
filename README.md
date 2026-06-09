@@ -1,10 +1,5 @@
 # The Unofficial Guide — Project 1
 
-> **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
-
 ---
 
 ## Domain
@@ -111,12 +106,27 @@ Evaluation was run with `src/run_evaluation.py` and saved to `data/processed/eva
 | 2 | What are common pros and cons students mention about UCSC CS? | Pros: strong professors, class priority, frequent offerings; cons: late specialization, unclear core focus, housing cost/availability | Correctly named class priority, frequent offerings, and strong professors; mentioned rigor/preparation cons but missed housing and late-specialization negatives | Partially relevant — mostly one Reddit thread | Partially accurate |
 | 3 | Which professors or teachers are recommended by students? | Sesh, Fremont, Harrison, Sorensen, Kuper, Tantalo, De Alfaro, Miller, Qian, Alvaro; Harrison mixed but valuable | Named Sesh, Fremont, Harrison, Sorensen, Kuper, and Tantalo; missed several professors and did not fully explain Harrison’s mixed reputation | Partially relevant — best chunk ranked #2, weaker GitHub chunk ranked #1 | Partially accurate |
 | 4 | What official requirements or course categories are listed for the UCSC CS B.S.? | Lower-division programming, math, upper-division core, DC, capstone, four electives, plus elective restrictions | Mentioned GE, major requirements, transfer GPA rules, physics, and grade rules; did not list full curriculum categories | Partially relevant — retrieved weaker PDF chunk instead of main curriculum-chart chunk | Partially accurate |
-| 5 | Does the system have enough information to compare UCSC CS to UC Davis CS? | No — sources are UCSC-only; should refuse comparison | Correctly refused: *"I don't have enough information in the provided sources to answer that."* | Off-target but acceptable — UCSC-only chunks, no UC Davis content | Accurate |
+| 5 | Does the system have enough information to compare UCSC CS to UC Davis CS? | No — sources are UCSC-only; should refuse comparison | Correctly refused: *"I don't have enough information in the provided sources to answer that."* | Relevant for refusal — retrieved UCSC-only chunks and no UC Davis comparison evidence | Accurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
 
 **Overall:** The system grounded answers well and refused the out-of-scope comparison question. Its main weakness was retrieval on broad queries: GitHub boilerplate, general catalog chunks, or the wrong PDF chunk sometimes ranked above the most directly relevant Reddit or curriculum-chart evidence. When retrieval missed key chunks, answers were incomplete but usually still grounded.
+
+---
+
+## Example Responses
+
+**Successful query 1:** “Which UCSC CSE classes are useful for jobs?”  
+The system recommended CSE 186/187 for full-stack development, CSE 180 for databases, CSE 144/142 for AI/ML, CSE 121 for embedded, CSE 183 for mobile apps, and the CSE 115 series for project experience.  
+**Sources shown:** `reddit_important_cs_classes.txt`, `reddit_example_cs_path.txt`, `reddit_how_is_ucsc_cs_program.txt`, `github_ucsc_cs_student_guide.txt`
+
+**Successful query 2:** “What do students say about Harrison's classes?”  
+The system said students have mixed opinions about Harrison: some recommend him and say his classes help students “level up,” while others describe his classes as demanding or strict.  
+**Sources shown:** `reddit_example_cs_path.txt`, `reddit_best_professors.txt`, `reddit_how_is_ucsc_cs_program.txt`
+
+**Out-of-scope query:** “Compare UCSC CS to UC Davis CS. Which one is better?”  
+**System response:** “I don't have enough information in the provided sources to answer that.”
 
 ---
 
@@ -210,4 +220,4 @@ python app.py
 
 ## Demo Video
 
-Demo video: [link to be added before submission]
+Demo video: https://youtu.be/yfXBheGHIzM 
